@@ -5,13 +5,12 @@ nav_order: 1
 permalink: /
 ---
 
-Cairn is an [adventure game](http://questingblog.com/adventure-game-vs-osr) about exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Character generation is quick and random, classless, and relies on fictional advancement rather than through XP or level mechanics. It is based on [Knave](https://www.drivethrurpg.com/product/250888/Knave) by Ben Milton and [Into The Odd](https://chrismcdee.itch.io/electric-bastionland) by Chris McDowall. The game was written by [Yochai Gal](https://newschoolrevolution.com).
+Seo dhuibh *Cairn* ann an **Gàidhlig na h-Alba**. ’S e geama gabhail-riochd làn chunnart is cuairtean dàna, coltach ri sgeulachdan na Fèinne a th’ ann an *Cairn*. Nach tèid sibh air splaoid ann an coille annasach, draoidheach, is dorcha? Lorgaibh ulaidhean ann an seann sìthean, goidibh leabhraichean-draoidh, agus marbhaibh uilebheistean. Tha e stèidhte air [Knave](https://www.drivethrurpg.com/product/250888/Knave) le Ben Milton agus [Into The Odd](https://chrismcdee.itch.io/electric-bastionland) le Chris McDowall. Chaidh *Knave*, no Fèinnidh sa Ghàidhlig, eadar-theangachadh [gu Gàidhlig cuideachd](gd.tourlezarmeur.com/#riaghailtean). Chaidh *Cairn* a chruthachadh an toiseach le [Yochai Gal](https://newschoolrevolution.com) agus chaidh e eadar-theangachadh gu Gàidhlig le Lezarmeur.
 
-The PDF version is available for free on [Itch.io](https://yochaigal.itch.io/cairn) & [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn).  
-The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-The original Affinity Publisher file is also available with the downloads.
+Gheobhar am PDF an asgaidh air [gd.tourlezarmeur.com/#riaghailtean](gd.tourlezarmeur.com/#riaghailtean). Tha duilleag caractair ri lorg ann cuideachd.
+Tha *Cairn* fo Chead Chruthachail [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-This is a game that values community contributions! If you'd like to submit an adventure, hack, monster, or conversion take a look at the [submission guide](/submissions/submission-guide).
+Tha *Cairn* air a leasachadh leis a' choimhearsnachd! Ma tha sibh airson bhur cuid a chur sa ghnothach, mar eisimpleir le bhith a' toirt sgeulachd a-steach, nach toir sibh sùil air [submission guide](/submissions/submission-guide)?
 
 <p></p>
 
